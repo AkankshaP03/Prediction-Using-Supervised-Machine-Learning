@@ -10,13 +10,13 @@
            -Task #1:Prediction using Supervised Machine Learning.
                      Software used: Jupyter Notebook.
                      Dataset given: http://bit.ly/w-data
-                     Github link:
-                     Youtube link:
+                     Github link:https://github.com/AkankshaP03/Prediction-Using-Supervised-Machine-Learning
+                     Youtube link: https://www.youtube.com/watch?v=FdAVSkvd69o&feature=youtu.be
            -Task #2:Prediction using Unsupervised Machine Learning.
                      Software used: Jupyter Notebook.
                      Dataset given: https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view?usp=sharing
-                     Github link:
-                     Youtube link:
+                     Github link:https://github.com/AkankshaP03/Prediction-Using-Unsupervised-Machine-Learning
+                     Youtube link: https://www.youtube.com/watch?v=FdAVSkvd69o&feature=youtu.be
             
                             
                                     ~Thank you~
